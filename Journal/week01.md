@@ -10,3 +10,4 @@
 
 # Next Steps
 - Find a workaround to let the SSD1306 automatically boot up after a brownout or have a proper connection.
+- Add an uptime monitor on the oled.
