@@ -3,7 +3,7 @@
 This file explains the wiring and purpose of each connection and component.
 Includes schematics and theory.
 
-##ESP32-S3
+## ESP32-S3
 - Gnd pin is connected to all gnd components (Through Ground Rail on breadboard)
 - 5V pin is connected to 5V components.
     - DHT11
