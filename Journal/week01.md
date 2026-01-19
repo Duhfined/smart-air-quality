@@ -16,7 +16,8 @@
 - Internet coding
 
 # Code (At the end of each week)
-`#include <DHT.h>
+```
+#include <DHT.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 #include <Wire.h>
@@ -149,5 +150,5 @@ void loop() {
     updateUptime();
     updateDisplay();
   }
-} `
+} ```
 
